@@ -1,0 +1,251 @@
+@charset "UTF-8";
+
+body{
+    background-color: #84E1AD;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    margin: 0px;
+}
+
+header {
+    background-image: linear-gradient(to top, #1A5C38, #3DDA84);
+    width: 100%;
+    height: 220px;
+    text-align: center;
+    color: white;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.397);
+}
+
+    header > h1 {
+        padding: 30px 10px 10px 10px;
+        font-family: 'Bebas Neue';
+        font-size: 2.8em;
+        letter-spacing: -1px;
+        text-shadow: 1px 1px 2px black ;
+    }
+
+    header > p {
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.753);
+        line-height: 1.5em;
+    }
+
+nav {
+    text-align: left;
+    padding: 20px 10px 10px 15px;
+}
+
+    nav > a {
+        margin-right: 20px;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    }
+
+main {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding: 30px 20px 15px 20px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.74);
+
+}
+
+#final {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding: 20px 20px 30px 20px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.74);
+    
+}
+
+    #final > p {
+        text-align: justify;
+        text-indent: 30px;
+        line-height: 1.5em;
+        margin: 0px;
+        padding: 20px 0px 0px 0px;
+
+    }
+
+    main > h1 {
+        font-family: 'idroid';
+        color: #185A36;
+        padding: 0px;
+        margin: 0px;
+
+    }
+
+    main > h2 {
+        background-image: linear-gradient(to right, #84e1ac6b, white);
+        font-family: 'idroid';
+        color: #185A36;
+        text-indent: 10px;
+        padding: 0px;
+        margin: 0px;
+
+    }
+
+    main > p {
+        text-align: justify;
+        text-indent: 30px;
+        line-height: 1.5em;
+        margin: 0px;  
+        padding: 20px 0px 20px 0px;  
+
+    }
+
+    main > p > em {
+        color: #185A36;
+        font-style: normal;
+        font-weight: bold;
+    }
+
+article {
+    line-height: 1.5em;
+    margin: 0px
+
+}
+
+    article > p {
+        padding: 0px 0px 0px 0px;
+
+    }
+
+
+    article > h3 {
+        margin: 0px;
+        padding: 0px;
+    }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.video-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.22%;;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#video {
+    background-color: #185A36;
+    width: 75%;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+#extra {
+    background-color: #2FA866;
+    color: white;
+    padding: 5px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+    #extra > h3 {
+        margin: 0px;
+
+    }
+
+#versoes {
+    background-color: #C5EBD6;
+    padding: 10px;
+    text-indent: 30px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+    #versoes > p {
+        margin: 0px;
+    }
+
+    .coluna {
+        float: left;
+        width: 50%;
+    }
+    
+    .fileira:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .coluna > ul{ 
+        list-style: none;
+        padding: 15px;
+        margin: 0px;
+
+    }
+
+    .coluna > ul li:before {
+        content: '✔';
+        padding: 0px 10px 0px 0px;
+    }
+
+    .coluna > ul li > a:visited {
+        color: black;
+        text-decoration: underline;
+    }
+
+    .coluna > ul li > a {
+        color: black;
+        text-decoration: underline;
+    }
+
+    .chain {
+        color: #1A5C38;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    a.chain {
+        background-image: url(link.svg);
+        background-repeat: no-repeat;
+        background-position: top right;
+        padding-right: 1.5em;
+        background-size: 1em;
+    }
+
+footer {
+    background-color: #1A5C38;
+    border-right-width: 0px;
+    height: 10px;
+    padding: 10px 0px 15px 0px;
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+    color: white;
+    
+}
+
+    footer > p {
+        padding: 0px;
+        margin: 0px;
+        height: 10px;
+        font-style: italic;
+
+    }
+
+    footer > p > em {
+        font-weight: bold;
+    }
