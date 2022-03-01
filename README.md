@@ -22,12 +22,12 @@ Poor english translation soon.
 
 ### Screenshot :framed_picture:
 
-![Minha solução](https://github.com/braga-git/projeto-android/blob/main/imagens/projeto-android.png)
+![Minha solução](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/projeto-android.png)
 
 ### Links :link:
 
-- [Arquivos da solução](https://github.com/braga-git/projeto-android)
-- [Site](https://braga-git.github.io/projeto-android/)
+- [Arquivos da solução](https://github.com/braga-git/cursoemvideo-projeto-android)
+- [Site](https://braga-git.github.io/cursoemvideo-projeto-android/)
 
 ## Meu processo :footprints: 
 
@@ -85,7 +85,7 @@ O Guanabara apenas:
 
 No CSS utilizamos uma solução bem parecida. 
 
-![CSS de ambos os projetos](https://github.com/braga-git/projeto-android/blob/main/imagens/screenshot-css.png)
+![CSS de ambos os projetos](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/screenshot-css.png)
 
 Ou seja, eu precisava dar toda essa "volta"? Eu só compliquei e aumentei o meu trabalho.
 
@@ -149,8 +149,8 @@ Agora, podemos ver que não fui tão feliz quando falamos de responsividade. Alg
 
 | Meu projeto                                                                                | Modelo do Guanabara |
 | -----------                                                                                | -----------         |
-|![header](https://github.com/braga-git/projeto-android/blob/main/imagens/header-braga.jpeg) |![header](https://github.com/braga-git/projeto-android/blob/main/imagens/header-guanabara.jpeg)|
-|![footer](https://github.com/braga-git/projeto-android/blob/main/imagens/footer-braga.jpeg) |![footer](https://github.com/braga-git/projeto-android/blob/main/imagens/footer-guanabara.jpeg)|
+|![header](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/header-braga.jpeg) |![header](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/header-guanabara.jpeg)|
+|![footer](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/footer-braga.jpeg) |![footer](https://github.com/braga-git/cursoemvideo-projeto-android/blob/main/imagens/footer-guanabara.jpeg)|
 
 Isso ocorreu por alguns motivos, dentre eles:
 1. Não coloquei as medidas corretas em algumas margens e paddings;
