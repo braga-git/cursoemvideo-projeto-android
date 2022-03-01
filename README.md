@@ -178,4 +178,4 @@ Me siga para mais "soluções" :wink:
 
 ## Reconhecimentos :pray:
 
-Toda minha resolução para o desafio foi feita com base nos conhecimentos adquiridos nos módulos [1](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) e [2](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/) dos cursos de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com/cursos/), ministrados pelo [@gustavoguanabara](https://github.com/gustavoguanabara). 
+Toda minha resolução para o desafio foi feita com base nos conhecimentos adquiridos nos módulos [1](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) e [2](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/) do curso de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com/cursos/), ministrados pelo [@gustavoguanabara](https://github.com/gustavoguanabara). 
